@@ -1,0 +1,14 @@
+1: frame type
+0: sec enabled
+0: frame pending
+0: ACK request
+0: intra PAN
+2: dst addr mode
+1: frame version
+2: src addr mode
+208: sequence num
+0002: dst PAN id
+0123: dst addr
+0002: src PAN id
+abcd: src add
+54 68 69 73 20 69 73 20 61 20 73 61 6d 70 6c 65 20 54 45 58 54 0d 0a 46 6f 72 20 61 20 73 69 6d 70 6c 65 20 63 6f 6d 70 61 72 69 73 6f 6e
